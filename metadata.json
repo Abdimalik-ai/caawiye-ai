@@ -1,0 +1,5 @@
+{
+  "name": "caawiye",
+  "description": "Minimalist AI dating assistant that analyzes screenshots of your girlfriend's texts to detect the last message, interpret the tone, and generate tailored replies in real time.",
+  "requestFramePermissions": []
+}
